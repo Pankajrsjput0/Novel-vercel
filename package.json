@@ -23,9 +23,3 @@
     "typescript": "5.2.2"
   }
 }
-"scripts": {
-    "dev": "next dev",
-      "build": "next build",
-        "start": "next start"
-        }
-}
